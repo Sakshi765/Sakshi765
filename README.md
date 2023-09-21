@@ -25,7 +25,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sakshi765&show_icons=true&locale=en" alt="sakshi765" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakshi765&" alt="sakshi765" /></p>
+
 <!---
 Sakshi765/Sakshi765 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
