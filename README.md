@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sakshi765
-- 👀 I’m interested in WEB DEVELOPMENT and APP DEVELOPMENT
+- 👀 I’m interested in WEB DEVELOPMENT
 - 🌱 I’m currently learning JAVA and WEB DEV
 - 💞️ I’m looking to collaborate on YOUR AWESOME PROJECTS
 - 📫 How to reach me EMAIL- sakshi50213@gmail.com
