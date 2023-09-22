@@ -13,10 +13,6 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/sakshi-kumari1010/](https://www.linkedin.com/in/sakshi-kumari1010/)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/sakshi-kumari1010/](https://www.linkedin.com/in/sakshi-kumari1010/)
-
-- 💬 Ask me about **Java,HTML,CSS,JAVASCRIPT**
-
 - 📫 How to reach me **sakshi50213@gmail.com**
   
 
