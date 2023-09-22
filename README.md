@@ -3,8 +3,7 @@
 <h1 align="center">Hi 👋, I'm Sakshi Kumari</h1>
 <h3 align="center">A creative brain and an enthusiastic developer</h3>
 
-<img align="right" alt="coding" width="400" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
-
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/5a249fff657eb22fb372ea50a8553b59551fd78ea5df602fc08e3ec1e8e95bb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313935313138322f73637265656e73686f74732f343536303832332f383030783630302e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshi765&label=Profile%20views&color=0e75b6&style=flat" alt="sakshi765" /> </p>
 
 
