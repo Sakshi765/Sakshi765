@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **sakshi50213@gmail.com**
 
-- ⚡ Fun fact **I prefer devotional songs to bollywood songs**
+- ⚡**I prefer devotional songs to bollywood songs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
