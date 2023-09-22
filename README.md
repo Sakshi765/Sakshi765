@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Sakshi Kumari</h1>
 <h3 align="center">A creative brain and an enthusiastic developer</h3>
 
-<img align="right" alt="coding" width="400" src="https://i.gifer.com/JXA0.gif">
+<img align="right" alt="coding" width="400" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshi765&label=Profile%20views&color=0e75b6&style=flat" alt="sakshi765" /> </p>
 
