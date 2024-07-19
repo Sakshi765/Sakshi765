@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **developing and polishing my designing and development skills**
 
-- 🌱 I’m currently learning **JAVA and WEB DEVELOPMENT**
+- 🌱 I’m currently learning **PYTHON and WEB DEVELOPMENT**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/sakshi-kumari1010/](https://www.linkedin.com/in/sakshi-kumari1010/)
 
